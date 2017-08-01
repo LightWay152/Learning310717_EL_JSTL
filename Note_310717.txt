@@ -1,0 +1,9 @@
+﻿Learn about EL & JSTL
+
+web project
+- WebContent: el.jsp, function.jsp, jstl.jsp
+- web.servlet: ELServlet.java, FunctionServlet.java, JstlServlet.java
+
+eshop
+- WebContent: product.jsp, images folder
+- web.servlet: ProductServlet.java
